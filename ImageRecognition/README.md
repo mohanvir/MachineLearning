@@ -1,3 +1,6 @@
+Please view this using the "Raw" display.
+
+
 Image recognition is a very powerful tool used to distinguish between two types of pictures. This is used in the medical field 
 to diagnose tumors, broken bones and much more. 
 
@@ -19,4 +22,3 @@ to diagnose tumors, broken bones and much more.
            A large dataset is required, having too few pictures will cause the learning to not be done properly.
             
     
-a
