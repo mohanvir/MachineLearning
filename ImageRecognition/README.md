@@ -19,3 +19,4 @@ to diagnose tumors, broken bones and much more.
            A large dataset is required, having too few pictures will cause the learning to not be done properly.
             
     
+a
