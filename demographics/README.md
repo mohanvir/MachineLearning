@@ -1,4 +1,4 @@
-# demographic segumentation is widely used in financial probability models
+# demographic segmentation is widely used in financial probability models
 What is demographics segumentation and why is it useful?
   - This process is used alot in marketing to find which users are most likely to perform a task. 
   - You will need data that is collected properly for this model, in most cases, the more user data(independent variables) 
